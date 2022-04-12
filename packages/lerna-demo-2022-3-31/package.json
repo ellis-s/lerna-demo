@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "lodash": "^4.17.21"
   },
   "gitHead": "da4af71183953c0a7d3288899b6cf5736743f7db"
