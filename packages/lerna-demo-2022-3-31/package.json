@@ -14,12 +14,13 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm.fe.sensorsdata.cn/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "da4af71183953c0a7d3288899b6cf5736743f7db"
 }
