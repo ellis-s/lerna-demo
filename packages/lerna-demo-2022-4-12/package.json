@@ -1,6 +1,6 @@
 {
   "name": "lerna-demo-2022-4-12",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "ellis <hongfeisir@163.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "lerna-demo-2022-3-31": "^0.0.1",
+    "lerna-demo-2022-3-31": "^0.0.3",
     "lodash": "^4.17.21"
   },
   "gitHead": "da4af71183953c0a7d3288899b6cf5736743f7db"
