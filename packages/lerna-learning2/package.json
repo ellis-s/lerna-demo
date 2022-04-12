@@ -1,6 +1,6 @@
 {
   "name": "@ellis/lerna-learning2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "ellis <hongfeisir@163.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ellis/lerna-learning1": "^0.0.1",
+    "@ellis/lerna-learning1": "^0.0.2",
     "lodash": "^4.17.21"
   },
   "gitHead": "f31b43c0c36b837f89ae94f8c045ffb538e9b9ad"
