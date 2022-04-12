@@ -1,5 +1,5 @@
 "use strict";
-const demo1 = require("lerna-demo-2022-3-31");
+const demo1 = require("@ellis/lerna-learning1");
 
 module.exports = lernaDemo2022412;
 
