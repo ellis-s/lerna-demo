@@ -1,6 +1,6 @@
 {
-  "name": "@ellis/lerna-learning1",
-  "version": "0.0.3",
+  "name": "ellis-lerna-learning1",
+  "version": "0.0.0",
   "description": "to learn lerna commands",
   "author": "ellis <hongfeisir@163.com>",
   "homepage": "",
@@ -23,5 +23,5 @@
     "axios": "^0.26.1",
     "lodash": "^4.17.21"
   },
-  "gitHead": "7c868763b517ab3845de477cbdc771efcab4e466"
+  "gitHead": "f0466314807cc3c7f602cf48dd7538df4e0c995d"
 }
