@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "start": "cross-env APP_ROOT=dumi dumi dev",
+    "build:doc": "cross-env APP_ROOT=dumi dumi build"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dumi": "^1.1.38",
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1"
+  }
+}

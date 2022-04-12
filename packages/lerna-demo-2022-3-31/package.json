@@ -1,0 +1,25 @@
+{
+  "name": "lerna-demo-2022-3-31",
+  "version": "0.0.0",
+  "description": "to learn lerna commands",
+  "author": "ellis <sunhongfei@sensorsdata.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/lerna-demo-2022-3-31.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.fe.sensorsdata.cn/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
