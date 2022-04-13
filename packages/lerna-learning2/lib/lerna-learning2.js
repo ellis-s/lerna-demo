@@ -5,6 +5,7 @@ module.exports = lernaDemo2022412;
 
 function lernaDemo2022412() {
   // TODO
+  // update version
   const str = demo1();
   return `str is ${str}`;
 }
