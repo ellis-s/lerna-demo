@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "start": "cross-env APP_ROOT=dumi dumi dev",
-    "build:doc": "cross-env APP_ROOT=dumi dumi build"
+    "build:doc": "cross-env APP_ROOT=dumi dumi build",
+    "version": "lerna version --yes --no-push --no-git-tag-version"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
